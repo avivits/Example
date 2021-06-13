@@ -7,5 +7,6 @@ public class MyTest {
 
     public void testing(){
         System.out.println("hello");
+        System.out.println("hello2");
     }
 }
